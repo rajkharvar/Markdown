@@ -65,3 +65,14 @@ __This  is Bold Text__
 
 <!-- Images -->
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
+
+<!-- Horizontal line -->
+___
+---
+
+<!--Link-->
+[Test Url](https://www.testurl.com
+  "Test URL")
+
+  <!-- Block code -->
+  `<h3>Hello World<h3/>`
